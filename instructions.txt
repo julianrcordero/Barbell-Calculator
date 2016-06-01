@@ -1,0 +1,12 @@
+****INSTRUCTIONS****
+Weight is measured in lbs. Empty barbell weight is 45lbs.
+
+Enter 'adder' to measure total weight on loaded bar
+      'combinationmaker' to calculate all possible plate combinations for given plate set
+
+adder:
+	Enter all plate pairs on 45lb barbell. Ex: For 45lb barbell with 45lb and 25lb plates on each side, enter '45' then '25'
+
+combinationmaker:
+	Enter all plate pairs in collection. Ex: For 45lb barbell with 45lb, 25lb, and 35lb available pairs, enter '45' then '25' then '35'.
+	All combinations will be printed to console as well as to output.txt file (will overwrite any previous data).
