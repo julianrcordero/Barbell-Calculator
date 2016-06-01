@@ -1,0 +1,558 @@
+45(4)	35(2)	25(4)	15(2)	10(4)	5(2)	
+
+45
+
+55 - 5pair
+
+65 - 10pair
+   - 10pair
+
+75 - 15pair
+   - 5pair - 10pair
+   - 5pair - 10pair
+
+85 - 10pair - 10pair
+   - 5pair - 15pair
+
+95 - 10pair - 15pair
+   - 10pair - 15pair
+   - 25pair
+   - 25pair
+   - 5pair - 10pair - 10pair
+
+105 - 5pair - 10pair - 15pair
+    - 5pair - 10pair - 15pair
+    - 5pair - 25pair
+    - 5pair - 25pair
+
+115 - 10pair - 10pair - 15pair
+    - 10pair - 25pair
+    - 10pair - 25pair
+    - 10pair - 25pair
+    - 10pair - 25pair
+    - 35pair
+
+125 - 15pair - 25pair
+    - 15pair - 25pair
+    - 5pair - 10pair - 10pair - 15pair
+    - 5pair - 10pair - 25pair
+    - 5pair - 10pair - 25pair
+    - 5pair - 10pair - 25pair
+    - 5pair - 10pair - 25pair
+    - 5pair - 35pair
+
+135 - 10pair - 10pair - 25pair
+    - 10pair - 10pair - 25pair
+    - 10pair - 35pair
+    - 10pair - 35pair
+    - 45pair
+    - 45pair
+    - 5pair - 15pair - 25pair
+    - 5pair - 15pair - 25pair
+
+145 - 10pair - 15pair - 25pair
+    - 10pair - 15pair - 25pair
+    - 10pair - 15pair - 25pair
+    - 10pair - 15pair - 25pair
+    - 15pair - 35pair
+    - 25pair - 25pair
+    - 5pair - 10pair - 10pair - 25pair
+    - 5pair - 10pair - 10pair - 25pair
+    - 5pair - 10pair - 35pair
+    - 5pair - 10pair - 35pair
+    - 5pair - 45pair
+    - 5pair - 45pair
+
+155 - 10pair - 10pair - 35pair
+    - 10pair - 45pair
+    - 10pair - 45pair
+    - 10pair - 45pair
+    - 10pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair
+    - 5pair - 10pair - 15pair - 25pair
+    - 5pair - 10pair - 15pair - 25pair
+    - 5pair - 10pair - 15pair - 25pair
+    - 5pair - 15pair - 35pair
+    - 5pair - 25pair - 25pair
+
+165 - 10pair - 10pair - 15pair - 25pair
+    - 10pair - 10pair - 15pair - 25pair
+    - 10pair - 15pair - 35pair
+    - 10pair - 15pair - 35pair
+    - 10pair - 25pair - 25pair
+    - 10pair - 25pair - 25pair
+    - 15pair - 45pair
+    - 15pair - 45pair
+    - 25pair - 35pair
+    - 25pair - 35pair
+    - 5pair - 10pair - 10pair - 35pair
+    - 5pair - 10pair - 45pair
+    - 5pair - 10pair - 45pair
+    - 5pair - 10pair - 45pair
+    - 5pair - 10pair - 45pair
+
+175 - 10pair - 10pair - 45pair
+    - 10pair - 10pair - 45pair
+    - 15pair - 25pair - 25pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair
+    - 5pair - 10pair - 15pair - 35pair
+    - 5pair - 10pair - 15pair - 35pair
+    - 5pair - 10pair - 25pair - 25pair
+    - 5pair - 10pair - 25pair - 25pair
+    - 5pair - 15pair - 45pair
+    - 5pair - 15pair - 45pair
+    - 5pair - 25pair - 35pair
+    - 5pair - 25pair - 35pair
+
+185 - 10pair - 10pair - 15pair - 35pair
+    - 10pair - 10pair - 25pair - 25pair
+    - 10pair - 15pair - 45pair
+    - 10pair - 15pair - 45pair
+    - 10pair - 15pair - 45pair
+    - 10pair - 15pair - 45pair
+    - 10pair - 25pair - 35pair
+    - 10pair - 25pair - 35pair
+    - 10pair - 25pair - 35pair
+    - 10pair - 25pair - 35pair
+    - 25pair - 45pair
+    - 25pair - 45pair
+    - 25pair - 45pair
+    - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 45pair
+    - 5pair - 10pair - 10pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair
+
+195 - 10pair - 15pair - 25pair - 25pair
+    - 10pair - 15pair - 25pair - 25pair
+    - 15pair - 25pair - 35pair
+    - 15pair - 25pair - 35pair
+    - 5pair - 10pair - 10pair - 15pair - 35pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair
+    - 5pair - 10pair - 15pair - 45pair
+    - 5pair - 10pair - 15pair - 45pair
+    - 5pair - 10pair - 15pair - 45pair
+    - 5pair - 10pair - 15pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair
+    - 5pair - 10pair - 25pair - 35pair
+    - 5pair - 10pair - 25pair - 35pair
+    - 5pair - 10pair - 25pair - 35pair
+    - 5pair - 25pair - 45pair
+    - 5pair - 25pair - 45pair
+    - 5pair - 25pair - 45pair
+    - 5pair - 25pair - 45pair
+
+205 - 10pair - 10pair - 15pair - 45pair
+    - 10pair - 10pair - 15pair - 45pair
+    - 10pair - 10pair - 25pair - 35pair
+    - 10pair - 10pair - 25pair - 35pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 10pair - 25pair - 45pair
+    - 35pair - 45pair
+    - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair
+    - 5pair - 15pair - 25pair - 35pair
+    - 5pair - 15pair - 25pair - 35pair
+
+215 - 10pair - 10pair - 15pair - 25pair - 25pair
+    - 10pair - 15pair - 25pair - 35pair
+    - 10pair - 15pair - 25pair - 35pair
+    - 10pair - 15pair - 25pair - 35pair
+    - 10pair - 15pair - 25pair - 35pair
+    - 15pair - 25pair - 45pair
+    - 15pair - 25pair - 45pair
+    - 15pair - 25pair - 45pair
+    - 15pair - 25pair - 45pair
+    - 25pair - 25pair - 35pair
+    - 5pair - 10pair - 10pair - 15pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair
+    - 5pair - 35pair - 45pair
+    - 5pair - 35pair - 45pair
+
+225 - 10pair - 10pair - 25pair - 45pair
+    - 10pair - 10pair - 25pair - 45pair
+    - 10pair - 10pair - 25pair - 45pair
+    - 10pair - 10pair - 25pair - 45pair
+    - 10pair - 35pair - 45pair
+    - 10pair - 35pair - 45pair
+    - 10pair - 35pair - 45pair
+    - 10pair - 35pair - 45pair
+    - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair
+    - 5pair - 15pair - 25pair - 45pair
+    - 5pair - 15pair - 25pair - 45pair
+    - 5pair - 15pair - 25pair - 45pair
+    - 5pair - 15pair - 25pair - 45pair
+    - 5pair - 25pair - 25pair - 35pair
+
+235 - 10pair - 10pair - 15pair - 25pair - 35pair
+    - 10pair - 10pair - 15pair - 25pair - 35pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair
+    - 10pair - 25pair - 25pair - 35pair
+    - 15pair - 35pair - 45pair
+    - 15pair - 35pair - 45pair
+    - 25pair - 25pair - 45pair
+    - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 45pair
+    - 5pair - 10pair - 35pair - 45pair
+    - 5pair - 10pair - 35pair - 45pair
+    - 5pair - 10pair - 35pair - 45pair
+    - 5pair - 10pair - 35pair - 45pair
+    - 5pair - 45pair - 45pair
+
+245 - 10pair - 10pair - 35pair - 45pair
+    - 10pair - 10pair - 35pair - 45pair
+    - 10pair - 45pair - 45pair
+    - 10pair - 45pair - 45pair
+    - 15pair - 25pair - 25pair - 35pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair
+    - 5pair - 15pair - 35pair - 45pair
+    - 5pair - 15pair - 35pair - 45pair
+    - 5pair - 25pair - 25pair - 45pair
+    - 5pair - 25pair - 25pair - 45pair
+
+255 - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 10pair - 10pair - 25pair - 25pair - 35pair
+    - 10pair - 15pair - 35pair - 45pair
+    - 10pair - 15pair - 35pair - 45pair
+    - 10pair - 15pair - 35pair - 45pair
+    - 10pair - 15pair - 35pair - 45pair
+    - 10pair - 25pair - 25pair - 45pair
+    - 10pair - 25pair - 25pair - 45pair
+    - 10pair - 25pair - 25pair - 45pair
+    - 10pair - 25pair - 25pair - 45pair
+    - 15pair - 45pair - 45pair
+    - 25pair - 35pair - 45pair
+    - 25pair - 35pair - 45pair
+    - 25pair - 35pair - 45pair
+    - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 35pair - 45pair
+    - 5pair - 10pair - 45pair - 45pair
+    - 5pair - 10pair - 45pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair - 35pair
+
+265 - 10pair - 10pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 35pair
+    - 10pair - 15pair - 25pair - 25pair - 35pair
+    - 15pair - 25pair - 25pair - 45pair
+    - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 45pair
+    - 5pair - 15pair - 45pair - 45pair
+    - 5pair - 25pair - 35pair - 45pair
+    - 5pair - 25pair - 35pair - 45pair
+    - 5pair - 25pair - 35pair - 45pair
+    - 5pair - 25pair - 35pair - 45pair
+
+275 - 10pair - 10pair - 15pair - 35pair - 45pair
+    - 10pair - 10pair - 15pair - 35pair - 45pair
+    - 10pair - 10pair - 25pair - 25pair - 45pair
+    - 10pair - 10pair - 25pair - 25pair - 45pair
+    - 10pair - 15pair - 45pair - 45pair
+    - 10pair - 15pair - 45pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair
+    - 25pair - 45pair - 45pair
+    - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair
+    - 5pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair - 45pair
+
+285 - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair
+    - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 15pair - 25pair - 35pair - 45pair
+    - 15pair - 25pair - 35pair - 45pair
+    - 15pair - 25pair - 35pair - 45pair
+    - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 25pair - 45pair - 45pair
+    - 5pair - 25pair - 45pair - 45pair
+
+295 - 10pair - 10pair - 15pair - 45pair - 45pair
+    - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 45pair - 45pair
+    - 10pair - 25pair - 45pair - 45pair
+    - 10pair - 25pair - 45pair - 45pair
+    - 10pair - 25pair - 45pair - 45pair
+    - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 25pair - 35pair - 45pair
+
+305 - 10pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 15pair - 25pair - 45pair - 45pair
+    - 15pair - 25pair - 45pair - 45pair
+    - 25pair - 25pair - 35pair - 45pair
+    - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 45pair - 45pair
+    - 5pair - 35pair - 45pair - 45pair
+
+315 - 10pair - 10pair - 25pair - 45pair - 45pair
+    - 10pair - 10pair - 25pair - 45pair - 45pair
+    - 10pair - 35pair - 45pair - 45pair
+    - 10pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 25pair - 25pair - 35pair - 45pair
+
+325 - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 15pair - 35pair - 45pair - 45pair
+    - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 35pair - 45pair - 45pair
+
+335 - 10pair - 10pair - 35pair - 45pair - 45pair
+    - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 35pair - 45pair - 45pair
+    - 5pair - 25pair - 25pair - 45pair - 45pair
+
+345 - 10pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 10pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 35pair - 45pair - 45pair
+    - 10pair - 15pair - 35pair - 45pair - 45pair
+    - 10pair - 25pair - 25pair - 45pair - 45pair
+    - 10pair - 25pair - 25pair - 45pair - 45pair
+    - 25pair - 35pair - 45pair - 45pair
+    - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 35pair - 45pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair - 35pair - 45pair
+
+355 - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 25pair - 35pair - 45pair - 45pair
+
+365 - 10pair - 10pair - 15pair - 35pair - 45pair - 45pair
+    - 10pair - 10pair - 25pair - 25pair - 45pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair - 45pair - 45pair
+
+375 - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 35pair - 45pair - 45pair
+
+385 - 10pair - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 15pair - 25pair - 35pair - 45pair - 45pair
+
+395 - 10pair - 10pair - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 35pair - 45pair - 45pair
+
+405 - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+415 - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+425 - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 15pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+435 - 10pair - 10pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+445 - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 10pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+455 - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+    - 5pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+465 - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
+475 - 5pair - 10pair - 10pair - 15pair - 25pair - 25pair - 35pair - 45pair - 45pair
+
